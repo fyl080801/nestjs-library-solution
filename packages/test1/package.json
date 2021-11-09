@@ -21,6 +21,7 @@
     "build": "vite build && tsc --project ./tsconfig.build.json"
   },
   "dependencies": {
+    "@nestseed/vite-service": "^0.0.0",
     "vue": "^3.2.21"
   },
   "devDependencies": {
