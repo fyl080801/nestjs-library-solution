@@ -1,6 +1,6 @@
 import { mergeConfig } from 'vite';
 import * as path from 'path';
-import base from '../../vite.config';
+import base from '../vite-service/vite.config';
 
 export default mergeConfig(base, {
   root: __dirname, // path.resolve(__dirname, '../'),

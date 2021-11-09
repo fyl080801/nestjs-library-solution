@@ -17,7 +17,8 @@
     "registry": "https://registry.npmmirror.com/"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "clean": "rimraf dist",
+    "build": "tsc --project ./tsconfig.build.json"
   },
   "dependencies": {
     "@nestseed/test1": "^0.0.0"

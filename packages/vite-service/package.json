@@ -25,5 +25,11 @@
   },
   "bugs": {
     "url": "https://github.com/fyl080801/nestjs-library-solution/issues"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^1.6.2",
+    "@vitejs/plugin-vue": "^1.9.4",
+    "vite": "^2.6.13",
+    "vite-plugin-svg-sprite": "^0.2.3"
   }
 }
