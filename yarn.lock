@@ -1247,10 +1247,10 @@
     npmlog "^4.1.2"
     write-file-atomic "^3.0.3"
 
-"@nestjs/cli@^8.0.0":
+"@nestjs/cli@^8.1.4":
   version "8.1.4"
-  resolved "https://registry.npmmirror.com/@nestjs/cli/download/@nestjs/cli-8.1.4.tgz#8105c791eae3ead67e8ba7b4df2c0f45a445d0cd"
-  integrity sha1-gQXHkerj6tZ+i6e03ywPRaRF0M0=
+  resolved "https://registry.yarnpkg.com/@nestjs/cli/-/cli-8.1.4.tgz#8105c791eae3ead67e8ba7b4df2c0f45a445d0cd"
+  integrity sha512-QXZ0fkybNEPUeP3wcWuFore8XVicrT76IYToHkc4PJ+kQ7/thQzpy5mqWGTalv83aNM5LKAjl5OTSBBrPiWrlg==
   dependencies:
     "@angular-devkit/core" "12.2.10"
     "@angular-devkit/schematics" "12.2.10"
@@ -1275,9 +1275,9 @@
     webpack "5.58.2"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^8.0.0":
+"@nestjs/common@^8.2.0":
   version "8.2.0"
-  resolved "https://registry.npmmirror.com/@nestjs/common/download/@nestjs/common-8.2.0.tgz#ae1e94b1d459302d3b3673f9fa6b6dd809f55348"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-8.2.0.tgz#ae1e94b1d459302d3b3673f9fa6b6dd809f55348"
   integrity sha512-Vska6eEQtnwM9CBnL7QINQUE8Xq+d4s/CXkpxrUab1HgTA9m5LjmkCPdLw7tBFxMQ6Px+kmcXkQI3rKMfq9Wzw==
   dependencies:
     axios "0.24.0"
@@ -1285,9 +1285,9 @@
     tslib "2.3.1"
     uuid "8.3.2"
 
-"@nestjs/core@^8.0.0":
+"@nestjs/core@^8.2.0":
   version "8.2.0"
-  resolved "https://registry.npmmirror.com/@nestjs/core/download/@nestjs/core-8.2.0.tgz#4004a8aff4127a0d9f001808d084035d0fef9aad"
+  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-8.2.0.tgz#4004a8aff4127a0d9f001808d084035d0fef9aad"
   integrity sha512-TjN705n0DQrcL8hN1021dITol2BgzIT+FFv3RPKJWMwck8y0ebWK0PTI4vXeLial75fPd+4K4LhL6nAO4WyjFw==
   dependencies:
     "@nuxtjs/opencollective" "0.3.2"
@@ -1298,9 +1298,9 @@
     tslib "2.3.1"
     uuid "8.3.2"
 
-"@nestjs/platform-express@^8.0.0":
+"@nestjs/platform-express@^8.2.0":
   version "8.2.0"
-  resolved "https://registry.npmmirror.com/@nestjs/platform-express/download/@nestjs/platform-express-8.2.0.tgz#0a3d3882c1d6987535f54e99f665d6738121cffa"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-8.2.0.tgz#0a3d3882c1d6987535f54e99f665d6738121cffa"
   integrity sha512-IiYXT1t9hkWWjohHvNWYi/hWk8CCvDY25y8y72zkN5/iyvWWiqwmcGGhji2bENvQx8e/Vlm1d4EkwRFYWfBGjA==
   dependencies:
     body-parser "1.19.0"
@@ -1309,7 +1309,7 @@
     multer "1.4.3"
     tslib "2.3.1"
 
-"@nestjs/schematics@^8.0.0", "@nestjs/schematics@^8.0.3":
+"@nestjs/schematics@^8.0.3", "@nestjs/schematics@^8.0.4":
   version "8.0.4"
   resolved "https://registry.npmmirror.com/@nestjs/schematics/download/@nestjs/schematics-8.0.4.tgz?cache=0&sync_timestamp=1634551222974&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40nestjs%2Fschematics%2Fdownload%2F%40nestjs%2Fschematics-8.0.4.tgz#4af3de12c6aaf90f359c617d88ac4719a1432161"
   integrity sha1-SvPeEsaq+Q81nGF9iKxHGaFDIWE=
@@ -1320,9 +1320,9 @@
     jsonc-parser "3.0.0"
     pluralize "8.0.0"
 
-"@nestjs/testing@^8.0.0":
+"@nestjs/testing@^8.2.0":
   version "8.2.0"
-  resolved "https://registry.npmmirror.com/@nestjs/testing/download/@nestjs/testing-8.2.0.tgz#2e8259e9af6b76cb7469f67fdf6a423a27afb0e3"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-8.2.0.tgz#2e8259e9af6b76cb7469f67fdf6a423a27afb0e3"
   integrity sha512-8AIZMuPMZ0zIzuR5iOTZ38zH1CjBhhmwQD/thNhIAANWNYKPEpoqNFzol14hiWWsRUpsV9amgljtTf3hzX6KnA==
   dependencies:
     optional "0.1.4"
@@ -1665,8 +1665,8 @@
 
 "@types/express@^4.17.13":
   version "4.17.13"
-  resolved "https://registry.npmmirror.com/@types/express/download/@types/express-4.17.13.tgz#a76e2995728999bab51a33fabce1d705a3709034"
-  integrity sha1-p24plXKJmbq1GjP6vOHXBaNwkDQ=
+  resolved "https://registry.yarnpkg.com/@types/express/-/express-4.17.13.tgz#a76e2995728999bab51a33fabce1d705a3709034"
+  integrity sha512-6bSZTPaTIACxn48l50SR+axgrqm6qXFIxrdAKaG6PaJk3+zuUr35hBlgT7vOmJcum+OEaIBLtHV/qloEAFITeA==
   dependencies:
     "@types/body-parser" "*"
     "@types/express-serve-static-core" "^4.17.18"
@@ -1732,9 +1732,14 @@
   resolved "https://registry.npmmirror.com/@types/minimist/download/@types/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
   integrity sha1-7nceK6Sz3Fs3KTXVSf2WF780W4w=
 
-"@types/node@*", "@types/node@^16.0.0":
+"@types/node@*":
   version "16.11.7"
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.11.7.tgz#36820945061326978c42a01e56b61cd223dfdc42"
+  integrity sha512-QB5D2sqfSjCmTuWcBWyJ+/44bcjO7VbjSbOE0ucoVbAsSNQc4Lt6QkgkVXkTDwkL4z/beecZNDvVX15D4P8Jbw==
+
+"@types/node@^16.11.7":
+  version "16.11.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.7.tgz#36820945061326978c42a01e56b61cd223dfdc42"
   integrity sha512-QB5D2sqfSjCmTuWcBWyJ+/44bcjO7VbjSbOE0ucoVbAsSNQc4Lt6QkgkVXkTDwkL4z/beecZNDvVX15D4P8Jbw==
 
 "@types/normalize-package-data@^2.4.0":
@@ -1807,9 +1812,9 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^5.0.0":
+"@typescript-eslint/eslint-plugin@^5.3.1":
   version "5.3.1"
-  resolved "https://registry.npmmirror.com/@typescript-eslint/eslint-plugin/download/@typescript-eslint/eslint-plugin-5.3.1.tgz#d8ff412f10f54f6364e7fd7c1e70eb6767f434c3"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-5.3.1.tgz#d8ff412f10f54f6364e7fd7c1e70eb6767f434c3"
   integrity sha512-cFImaoIr5Ojj358xI/SDhjog57OK2NqlpxwdcgyxDA3bJlZcJq5CPzUXtpD7CxI2Hm6ATU7w5fQnnkVnmwpHqw==
   dependencies:
     "@typescript-eslint/experimental-utils" "5.3.1"
@@ -1833,9 +1838,9 @@
     eslint-scope "^5.1.1"
     eslint-utils "^3.0.0"
 
-"@typescript-eslint/parser@^5.0.0":
+"@typescript-eslint/parser@^5.3.1":
   version "5.3.1"
-  resolved "https://registry.npmmirror.com/@typescript-eslint/parser/download/@typescript-eslint/parser-5.3.1.tgz#8ff1977c3d3200c217b3e4628d43ef92f89e5261"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-5.3.1.tgz#8ff1977c3d3200c217b3e4628d43ef92f89e5261"
   integrity sha512-TD+ONlx5c+Qhk21x9gsJAMRohWAUMavSOmJgv3JGy9dgPhuBd5Wok0lmMClZDyJNLLZK1JRKiATzCKZNUmoyfw==
   dependencies:
     "@typescript-eslint/scope-manager" "5.3.1"
@@ -2851,7 +2856,7 @@ chardet@^0.7.0:
   resolved "https://registry.npmmirror.com/chardet/download/chardet-0.7.0.tgz?cache=0&sync_timestamp=1634639163489&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fchardet%2Fdownload%2Fchardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha1-kAlISfCTfy7twkJdDSip5fDLrZ4=
 
-chokidar@3.5.2, chokidar@^3.2.2, chokidar@^3.4.2:
+chokidar@3.5.2, chokidar@^3.4.2, chokidar@^3.5.2:
   version "3.5.2"
   resolved "https://registry.npmmirror.com/chokidar/download/chokidar-3.5.2.tgz#dba3976fcadb016f66fd365021d91600d01c1e75"
   integrity sha1-26OXb8rbAW9m/TZQIdkWANAcHnU=
@@ -3429,10 +3434,10 @@ debug@4, debug@^4.1.0, debug@^4.1.1, debug@^4.3.1, debug@^4.3.2:
   dependencies:
     ms "2.1.2"
 
-debug@^3.2.6:
+debug@^3.2.7:
   version "3.2.7"
-  resolved "https://registry.npmmirror.com/debug/download/debug-3.2.7.tgz?cache=0&sync_timestamp=1636300872595&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2Fdownload%2Fdebug-3.2.7.tgz#72580b7e9145fb39b6676f9c5e5fb100b934179a"
-  integrity sha1-clgLfpFF+zm2Z2+cXl+xALk0F5o=
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.7.tgz#72580b7e9145fb39b6676f9c5e5fb100b934179a"
+  integrity sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==
   dependencies:
     ms "^2.1.1"
 
@@ -3967,13 +3972,13 @@ escodegen@^2.0.0:
 
 eslint-config-prettier@^8.3.0:
   version "8.3.0"
-  resolved "https://registry.npmmirror.com/eslint-config-prettier/download/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
-  integrity sha1-90cbILb+ipqSVMxoRFQgKIai3Xo=
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
+  integrity sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==
 
 eslint-plugin-prettier@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.npmmirror.com/eslint-plugin-prettier/download/eslint-plugin-prettier-4.0.0.tgz#8b99d1e4b8b24a762472b4567992023619cb98e0"
-  integrity sha1-i5nR5LiySnYkcrRWeZICNhnLmOA=
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.0.0.tgz#8b99d1e4b8b24a762472b4567992023619cb98e0"
+  integrity sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
@@ -4010,10 +4015,10 @@ eslint-visitor-keys@^3.0.0:
   resolved "https://registry.npmmirror.com/eslint-visitor-keys/download/eslint-visitor-keys-3.1.0.tgz?cache=0&sync_timestamp=1636378502272&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Feslint-visitor-keys%2Fdownload%2Feslint-visitor-keys-3.1.0.tgz#eee4acea891814cda67a7d8812d9647dd0179af2"
   integrity sha512-yWJFpu4DtjsWKkt5GeNBBuZMlNcYVs6vRCLoCVEJrTjaSB6LC98gFipNK/erM2Heg/E8mIK+hXG/pJMLK+eRZA==
 
-eslint@^8.0.1:
+eslint@^8.2.0:
   version "8.2.0"
-  resolved "https://registry.npmmirror.com/eslint/download/eslint-8.2.0.tgz?cache=0&sync_timestamp=1636158100294&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Feslint%2Fdownload%2Feslint-8.2.0.tgz#44d3fb506d0f866a506d97a0fc0e90ee6d06a815"
-  integrity sha1-RNP7UG0PhmpQbZeg/A6Q7m0GqBU=
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.2.0.tgz#44d3fb506d0f866a506d97a0fc0e90ee6d06a815"
+  integrity sha512-erw7XmM+CLxTOickrimJ1SiF55jiNlVSp2qqm0NuBWPtHYQCegD5ZMaW0c3i5ytPqL+SSLaCxdvQXFPLJn+ABw==
   dependencies:
     "@eslint/eslintrc" "^1.0.4"
     "@humanwhocodes/config-array" "^0.6.0"
@@ -6859,20 +6864,20 @@ node-releases@^2.0.1:
   resolved "https://registry.npmmirror.com/node-releases/download/node-releases-2.0.1.tgz?cache=0&sync_timestamp=1634806905286&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-releases%2Fdownload%2Fnode-releases-2.0.1.tgz#3d1d395f204f1f2f29a54358b9fb678765ad2fc5"
   integrity sha1-PR05XyBPHy8ppUNYuftnh2WtL8U=
 
-nodemon@^2.0.14:
-  version "2.0.14"
-  resolved "https://registry.npmmirror.com/nodemon/download/nodemon-2.0.14.tgz#287c7a2f6cd8a18b07e94cd776ecb6a82e4ba439"
-  integrity sha1-KHx6L2zYoYsH6UzXduy2qC5LpDk=
+nodemon@^2.0.15:
+  version "2.0.15"
+  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-2.0.15.tgz#504516ce3b43d9dc9a955ccd9ec57550a31a8d4e"
+  integrity sha512-gdHMNx47Gw7b3kWxJV64NI+Q5nfl0y5DgDbiVtShiwa7Z0IZ07Ll4RLFo6AjrhzMtoEZn5PDE3/c2AbVsiCkpA==
   dependencies:
-    chokidar "^3.2.2"
-    debug "^3.2.6"
+    chokidar "^3.5.2"
+    debug "^3.2.7"
     ignore-by-default "^1.0.1"
     minimatch "^3.0.4"
-    pstree.remy "^1.1.7"
+    pstree.remy "^1.1.8"
     semver "^5.7.1"
     supports-color "^5.5.0"
     touch "^3.1.0"
-    undefsafe "^2.0.3"
+    undefsafe "^2.0.5"
     update-notifier "^5.1.0"
 
 nopt@^4.0.1:
@@ -7600,10 +7605,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.3.2:
+prettier@^2.4.1:
   version "2.4.1"
-  resolved "https://registry.npmmirror.com/prettier/download/prettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
-  integrity sha1-Zx4RyJwUpM/Ids5WQQbEpnJsn1w=
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
+  integrity sha512-9fbDAXSBcc6Bs1mZrDYb3XKzDLm4EXXL9sC1LqKP5rZkT6KRr/rf9amVUcODVXgguK/isJz0d0hP72WeaKWsvA==
 
 pretty-format@^27.0.0, pretty-format@^27.3.1:
   version "27.3.1"
@@ -7676,10 +7681,10 @@ psl@^1.1.28, psl@^1.1.33:
   resolved "https://registry.npmmirror.com/psl/download/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
   integrity sha1-kyb4vPsBOtzABf3/BWrM4CDlHCQ=
 
-pstree.remy@^1.1.7:
+pstree.remy@^1.1.8:
   version "1.1.8"
-  resolved "https://registry.npmmirror.com/pstree.remy/download/pstree.remy-1.1.8.tgz#c242224f4a67c21f686839bbdb4ac282b8373d3a"
-  integrity sha1-wkIiT0pnwh9oaDm720rCgrg3PTo=
+  resolved "https://registry.yarnpkg.com/pstree.remy/-/pstree.remy-1.1.8.tgz#c242224f4a67c21f686839bbdb4ac282b8373d3a"
+  integrity sha512-77DZwxQmxKnu3aR542U+X8FypNzbfJ+C5XQDk3uWjWxn6151aIMGthWYRXTqT1E5oJvg+ljaa2OJi+VfvCOQ8w==
 
 pump@^3.0.0:
   version "3.0.0"
@@ -7949,8 +7954,8 @@ redent@^3.0.0:
 
 reflect-metadata@^0.1.13:
   version "0.1.13"
-  resolved "https://registry.npmmirror.com/reflect-metadata/download/reflect-metadata-0.1.13.tgz#67ae3ca57c972a2aa1642b10fe363fe32d49dc08"
-  integrity sha1-Z648pXyXKiqhZCsQ/jY/4y1J3Ag=
+  resolved "https://registry.yarnpkg.com/reflect-metadata/-/reflect-metadata-0.1.13.tgz#67ae3ca57c972a2aa1642b10fe363fe32d49dc08"
+  integrity sha512-Ts1Y/anZELhSsjMcU605fU9RE4Oi3p5ORujwbIKXfWa+0Zxs510Qrmrce5/Jowq3cHSZSJqBjypxmHarc+vEWg==
 
 regenerator-runtime@^0.13.9:
   version "0.13.9"
@@ -8135,10 +8140,10 @@ rxjs@6.6.7, rxjs@^6.6.0:
   dependencies:
     tslib "^1.9.0"
 
-rxjs@^7.2.0:
+rxjs@^7.2.0, rxjs@^7.4.0:
   version "7.4.0"
-  resolved "https://registry.npmmirror.com/rxjs/download/rxjs-7.4.0.tgz#a12a44d7eebf016f5ff2441b87f28c9a51cebc68"
-  integrity sha1-oSpE1+6/AW9f8kQbh/KMmlHOvGg=
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.4.0.tgz#a12a44d7eebf016f5ff2441b87f28c9a51cebc68"
+  integrity sha512-7SQDi7xeTMCJpqViXh8gL/lebcwlp3d831F05+9B44A4B0WfsEwUQHR64gsH1kvJ+Ep/J9K2+n1hVl1CsGN23w==
   dependencies:
     tslib "~2.1.0"
 
@@ -9056,20 +9061,20 @@ ts-jest@^27.0.3:
     semver "7.x"
     yargs-parser "20.x"
 
-ts-loader@^9.2.3:
+ts-loader@^9.2.6:
   version "9.2.6"
-  resolved "https://registry.npmmirror.com/ts-loader/download/ts-loader-9.2.6.tgz#9937c4dd0a1e3dbbb5e433f8102a6601c6615d74"
-  integrity sha1-mTfE3QoePbu15DP4ECpmAcZhXXQ=
+  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-9.2.6.tgz#9937c4dd0a1e3dbbb5e433f8102a6601c6615d74"
+  integrity sha512-QMTC4UFzHmu9wU2VHZEmWWE9cUajjfcdcws+Gh7FhiO+Dy0RnR1bNz0YCHqhI0yRowCE9arVnNxYHqELOy9Hjw==
   dependencies:
     chalk "^4.1.0"
     enhanced-resolve "^5.0.0"
     micromatch "^4.0.0"
     semver "^7.3.4"
 
-ts-node@^10.0.0:
+ts-node@^10.4.0:
   version "10.4.0"
-  resolved "https://registry.npmmirror.com/ts-node/download/ts-node-10.4.0.tgz#680f88945885f4e6cf450e7f0d6223dd404895f7"
-  integrity sha1-aA+IlFiF9ObPRQ5/DWIj3UBIlfc=
+  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.4.0.tgz#680f88945885f4e6cf450e7f0d6223dd404895f7"
+  integrity sha512-g0FlPvvCXSIO1JDF6S232P5jPYqBkRL9qly81ZgAOSU7rwI0stphCgd2kLiCrU9DjQCrJMWEqcNSjQL02s6d8A==
   dependencies:
     "@cspotcode/source-map-support" "0.7.0"
     "@tsconfig/node10" "^1.0.7"
@@ -9093,7 +9098,7 @@ tsconfig-paths-webpack-plugin@3.5.1:
     enhanced-resolve "^5.7.0"
     tsconfig-paths "^3.9.0"
 
-tsconfig-paths@3.11.0, tsconfig-paths@^3.10.1, tsconfig-paths@^3.9.0:
+tsconfig-paths@3.11.0, tsconfig-paths@^3.11.0, tsconfig-paths@^3.9.0:
   version "3.11.0"
   resolved "https://registry.npmmirror.com/tsconfig-paths/download/tsconfig-paths-3.11.0.tgz#954c1fe973da6339c78e06b03ce2e48810b65f36"
   integrity sha1-lUwf6XPaYznHjgawPOLkiBC2XzY=
@@ -9241,10 +9246,10 @@ unbox-primitive@^1.0.1:
     has-symbols "^1.0.2"
     which-boxed-primitive "^1.0.2"
 
-undefsafe@^2.0.3:
+undefsafe@^2.0.5:
   version "2.0.5"
-  resolved "https://registry.npmmirror.com/undefsafe/download/undefsafe-2.0.5.tgz#38733b9327bdcd226db889fb723a6efd162e6e2c"
-  integrity sha1-OHM7kye9zSJtuIn7cjpu/RYubiw=
+  resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-2.0.5.tgz#38733b9327bdcd226db889fb723a6efd162e6e2c"
+  integrity sha512-WxONCrssBM8TSPRqN5EmsjVrsv4A8X12J4ArBiiayv3DyyG3ZlIg6yysuuSYdZsVz3TKcTg2fd//Ujd4CHV1iA==
 
 union-value@^1.0.0:
   version "1.0.1"
@@ -9448,10 +9453,10 @@ vite-plugin-svg-sprite@^0.2.3:
     svg-baker "~1.7.0"
     svgo "^1.3.2"
 
-vite@^2.6.13:
-  version "2.6.13"
-  resolved "https://registry.npmmirror.com/vite/download/vite-2.6.13.tgz#16b3ec85a66d5b461ac29a903874d4357f9af432"
-  integrity sha1-FrPshaZtW0YawpqQOHTUNX+a9DI=
+vite@^2.6.14:
+  version "2.6.14"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.14.tgz#35c09a15e4df823410819a2a239ab11efb186271"
+  integrity sha512-2HA9xGyi+EhY2MXo0+A2dRsqsAG3eFNEVIo12olkWhOmc8LfiM+eMdrXf+Ruje9gdXgvSqjLI9freec1RUM5EA==
   dependencies:
     esbuild "^0.13.2"
     postcss "^8.3.8"
