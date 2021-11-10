@@ -31,5 +31,8 @@
     "@vitejs/plugin-vue": "^1.9.4",
     "vite": "^2.6.14",
     "vite-plugin-svg-sprite": "^0.2.3"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.3"
   }
 }
